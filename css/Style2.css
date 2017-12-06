@@ -1,0 +1,204 @@
+body,
+section {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-family: Verdana;
+}
+
+#header section {
+    width: 49.6%;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#right {
+    text-align: center;
+}
+
+#left a {
+    color: gray;
+    font-size: 11px;
+    font-family: verdana;
+    font-weight: bold;
+    text-decoration: none;
+    margin-right: 8px;
+}
+
+#middle {
+    background: url(../img/senor.jpg);
+    border-top: 5px solid #c4c4c4;
+    background-size: 100% 70%;
+    background-repeat: no-repeat;
+    padding-bottom: 25%;
+}
+
+section.center {
+    width: 66%;
+    margin: 0 auto;
+    padding: 50px;
+}
+
+hgroup {
+    margin-top: 40px;
+    font-size: 16px;
+}
+
+section.center p {
+    color: #ccc;
+    line-height: 1;
+    font-size: 23px;
+}
+
+section.center section {
+    width: 70%;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+section.center img {
+    width: 70%;
+    padding-top: 10px;
+}
+
+button {
+    border: 3;
+    background: rgba(224, 231, 234, 0.43);
+    padding: 7px 12px;
+    color: #9CCCEC;
+    border-color: black;
+}
+
+.top {
+    padding-top: 40px;
+}
+
+h1 strong {
+    font-weight: bold;
+}
+
+div.item {
+    padding: 45px 10px 0px 10px;
+    width: 250px;
+    border: 1px solid rgba(175, 166, 166, 0.62);
+    text-align: center;
+    border-radius: 4px;
+    position: relative;
+    display: inline-block;
+    margin-left: 25px;
+    padding-bottom: 228px;
+}
+
+#bottom {
+    margin-top: -70px;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+div.item img {
+    position: absolute;
+    top: -33px;
+    left: 90px;
+}
+
+div.item hr {
+    border: 1px dashed white;
+}
+
+#header2 {
+    width: 48.9%;
+    display: inline-block;
+}
+
+.fa.fa-envelope {
+    font-size: 10px;
+    text-align: center;
+    display: inline-block;
+    margin-left: 14px;
+    color: gray;
+}
+
+#header2 p {
+    font-size: 7px;
+    display: inline-block;
+    padding-left: 0px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.fa.fa-phone {
+    font-size: 12px;
+    text-align: center;
+    display: inline-block;
+    color: gray;
+    padding-left: 4px;
+}
+
+#networks {
+    width: 47.9%;
+    font-size: 12px;
+    color: gray;
+    text-align: center;
+    display: inline-block;
+}
+
+#networks .fa {
+    margin-right: 5px;
+}
+
+hr {
+    border-color: rgba(177, 175, 175, 0.86);
+}
+
+.fa-desktop {
+    font-size: 63px;
+    color: rgba(11, 169, 245, 0.9)
+}
+
+.fa-rocket {
+    font-size: 63px;
+    color: rgba(11, 169, 245, 0.9)
+}
+
+.fa-flask {
+    font-size: 63px;
+    color: rgba(11, 169, 245, 0.9)
+}
+
+.fa-magic {
+    font-size: 63px;
+    color: rgba(11, 169, 245, 0.9)
+}
+
+#bottom button {
+    background: white;
+    border: 3;
+    padding: 7px 12px;
+    color: gray;
+    border-color: #BDBABA;
+}
+
+.item,
+#desk {
+    height: 130px;
+    width: 130px;
+    border-radius: 1077px;
+    border: 2px solid rgba(121, 119, 119, 0.53);
+}
+
+.btn_end {
+    text-align: right;
+    margin: -30px 10px -10px 0px;
+}
+
+#btn_r {
+    background: #A50000;
+    border: 0px;
+    border-radius: 2px;
+    padding: 6px 6px;
+    text-align: center;
+}
+
+.fa-chevron-down {
+    color: white;
+}
